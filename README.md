@@ -1,5 +1,5 @@
 # Case Study: 1,000-User M365 Digital Transformation & Security Hardening
-**Role:** Cloud Transformation Lead / Information Systems Manager  
+**Role:** Cloud Transformation Lead  
 **Environment:** Enterprise Infrastructure (Hybrid to Cloud-First)
 
 ---
