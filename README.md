@@ -52,7 +52,9 @@ I architected the transformation in three distinct phases to ensure zero downtim
 Security Posture Transformation
 
 *Final Secure Score dashboard showing the impact of Identity, Data, Device and Application security hardening initiatives.*
+![Microsoft Secure Score Dashboard](./assets/secure-score-dashboard.png)
 
+![Microsoft Secure Score Dashboard](./assets/secure-score-dashboard-detail.png)
 
 ---
 
