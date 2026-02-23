@@ -49,17 +49,10 @@ I architected the transformation in three distinct phases to ensure zero downtim
 
 > **Note to Reviewers:** The following screenshots are from a production-equivalent environment. All sensitive identifiers have been redacted to maintain organizational privacy.
 
-### 1. Security Posture Transformation
+Security Posture Transformation
 
-*Caption: Final Secure Score dashboard showing the impact of Conditional Access and MFA enforcement.*
+*Final Secure Score dashboard showing the impact of Identity, Data, Device and Application security hardening initiatives.*
 
-### 2. Threat Detection & Response
-
-*Caption: Real-time monitoring of identity-based threats using custom KQL queries.*
-
-### 3. Compliance & eDiscovery
-
-*Caption: Automated data preservation workflow that slashed legal discovery costs.*
 
 ---
 
